@@ -1,24 +1,105 @@
 <h1 align="center">Hi 👋, I'm Jay Bhadeshiya</h1>
-<h3 align="center">🚀 Student | Full Stack Learner | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Focused | DSA Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;ASP.NET+Core+%7C+Node.js;React+Developer;DSA+Enthusiast" />
+</p>
 
 ---
 
 ## 💫 About Me
+
 - 🎓 Computer Science Student  
-- 💻 Passionate about Web Development & Backend Systems  
-- 📚 Currently learning Advanced Backend & DSA  
-- 🎯 Goal: Become a Skilled Software Engineer  
+- 💻 Backend & System Design Focused  
+- 🔥 Building Real-World Scalable Applications  
+- 📚 Learning Advanced Backend + DSA  
+- 🎯 Goal: Become a Professional Software Engineer  
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 Development Logic
+
+I follow structured engineering practices:
+
+✔ Clean Architecture  
+✔ MVC Pattern  
+✔ RESTful API Design  
+✔ Authentication & Authorization  
+✔ Role-Based Access Control (RBAC)  
+✔ Database Normalization  
+✔ Scalable Backend Design  
+✔ Secure API Development  
+✔ Git Version Control  
+✔ Problem Solving with Data Structures & Algorithms  
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,java,cs,c" />
+</p>
+
+---
+
+## 🌐 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+---
+
+## 🛢️ Database & ORM
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayBhadeshiya21&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayBhadeshiya21&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayBhadeshiya21&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Current Focus
+
+- Backend APIs (Node.js / Express)
+- ASP.NET Core Web APIs
+- Database Design & Optimization
+- Authentication & Security
+- Advanced Data Structures & Algorithms
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/bhadeshiya_jay" target="blank">
+<a href="https://instagram.com/bhadeshiya_jay">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@Jay" target="blank">
+<a href="https://medium.com/@Jay">
 <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
 </a>
 
@@ -29,47 +110,12 @@
 
 ---
 
-## 💻 Tech Stack
+# 👀 Profile Views
 
-### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛢️ Database
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### 🎨 Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jayBhadeshiya21&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayBhadeshiya21&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayBhadeshiya21&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Current Focus
-- Backend Development (Node.js / Express)
-- ASP.NET Core APIs
-- Data Structures & Algorithms
-- Building Real-World Projects
-
----
-
-## 👀 Profile Views
 ![](https://visitcount.itsvg.in/api?id=jayBhadeshiya21&icon=5&color=6)
 
 ---
 
-⭐ From [JayBhadeshiya21](https://github.com/jayBhadeshiya21)
+<p align="center">
+  ⭐ From <a href="https://github.com/jayBhadeshiya21">JayBhadeshiya21</a>
+</p>
