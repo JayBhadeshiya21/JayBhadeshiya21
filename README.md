@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;ASP.NET+Core+%7C+Node.js;React+Developer;DSA+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;Node.js;React+Developer;" />
 </p>
 
 ---
